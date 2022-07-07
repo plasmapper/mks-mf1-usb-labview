@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2020.1" Created_Date="2022-04-04 17:51:50" Modified_Date="2022-04-28 17:27:53" Creator="Researcher" Comments="" ID="ff304c7b31b3666f1f7111bac2ae8e4a">
+<VI_Package_Builder_Settings Version="2020.1" Created_Date="2022-04-04 17:51:50" Modified_Date="2022-07-07 15:03:54" Creator="Researcher" Comments="" ID="5396de95af3102fc9a14fbacd3b5cf3b">
   <Library_General_Settings>
     <Package_File_Name>plasmapper_lib_PL_MKS_MF1_USB</Package_File_Name>
-    <Library_Version>1.0.0.2</Library_Version>
+    <Library_Version>1.0.0.3</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>.</Library_Source_Folder>
     <Library_Output_Folder>..\build</Library_Output_Folder>
@@ -39,7 +39,7 @@ Features
       <Copyright/>
       <Packager>plasmapper</Packager>
       <URL>https://github.com/plasmapper/mks-mf1-usb-labview</URL>
-      <Release_Notes/>
+      <Release_Notes>Initial release.</Release_Notes>
     </Description>
     <Destinations>
       <Toolkit_VIs>
@@ -300,7 +300,7 @@ Features
         <Path>Public\Utility</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>B58F3355C8E7EEF183E96B2B2EF506ED</GUID>
+      <GUID>98B02465B558ACC1ABC3899C70563346</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -419,7 +419,7 @@ Features
         <Path>Public\Configure\Read Valve Drive Level.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>B5FB261C2E7E4FA9F05C1D8884881EAB</GUID>
+      <GUID>B8EFF278C9931DCE05B8C5EB539BB2F0</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -468,7 +468,7 @@ Features
         <Path>Public\Action-Status\Read Error Status.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>F04651E7F9E476802B627C33F9F18A71</GUID>
+      <GUID>D2A0877425D67881794BAAB5EC21FDD6</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -517,7 +517,7 @@ Features
         <Path>Public\Data\Read Temperature.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>4B829A06675923C9C75258915EE35199</GUID>
+      <GUID>C8C9B111D2463A07E866DEF3384880B5</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -566,7 +566,7 @@ Features
         <Path>Public\Utility\Wink.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>E634195809777CD958464B19871B15AA</GUID>
+      <GUID>D992B2B56CA79341FE57FECA9A8E41A4</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
