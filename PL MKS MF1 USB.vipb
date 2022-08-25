@@ -1,4 +1,4 @@
-<VI_Package_Builder_Settings Version="2020.1" Created_Date="2022-04-04 17:51:50" Modified_Date="2022-07-07 15:03:54" Creator="Researcher" Comments="" ID="5396de95af3102fc9a14fbacd3b5cf3b">
+<VI_Package_Builder_Settings Version="2020.1" Created_Date="2022-04-04 17:51:50" Modified_Date="2022-08-25 14:04:02" Creator="Researcher" Comments="" ID="8917669ca1122d276065651ff953ba27">
   <Library_General_Settings>
     <Package_File_Name>plasmapper_lib_PL_MKS_MF1_USB</Package_File_Name>
     <Library_Version>1.0.0.3</Library_Version>
@@ -29,6 +29,8 @@
     <Description>
       <One_Line_Description_Summary>LabVIEW instrument driver for MKS MF1 mass flow controllers with USB interface</One_Line_Description_Summary>
       <Description>LabVIEW instrument driver for MKS MF1 mass flow controllers with USB interface.
+
+Tested on MKS MF1.
 
 Features
 1. Read/configure flow rate setpoint, valve mode and gas table index.
@@ -300,7 +302,7 @@ Features
         <Path>Public\Utility</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>98B02465B558ACC1ABC3899C70563346</GUID>
+      <GUID>ACEF5954FAC04CE45746C7B90CB468C7</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -419,7 +421,7 @@ Features
         <Path>Public\Configure\Read Valve Drive Level.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>B8EFF278C9931DCE05B8C5EB539BB2F0</GUID>
+      <GUID>BD38C95FDFEBD044ADCC521D26046586</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -468,7 +470,7 @@ Features
         <Path>Public\Action-Status\Read Error Status.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>D2A0877425D67881794BAAB5EC21FDD6</GUID>
+      <GUID>760C70EDDD0799B196286A720F32E30F</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -517,7 +519,7 @@ Features
         <Path>Public\Data\Read Temperature.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>C8C9B111D2463A07E866DEF3384880B5</GUID>
+      <GUID>E8EDAE5B86CCA615BC43BFF35F3EC8CC</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -566,7 +568,7 @@ Features
         <Path>Public\Utility\Wink.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>D992B2B56CA79341FE57FECA9A8E41A4</GUID>
+      <GUID>2B570503D6C01EBDEBF62C1954474213</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
