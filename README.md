@@ -1,5 +1,5 @@
-# MKS MF1 USB Library for LabVIEW
-LabVIEW instrument driver for MKS MF1 mass flow controllers with USB interface.
+# LabVIEW Instrument Driver for MKS MF1 Mass Flow Controllers with USB Interface
+Tested on MKS MF1.
 
 ## Requirements
 LabVIEW 2015 and higher.
